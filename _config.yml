@@ -1,5 +1,5 @@
 # Site
-repository: paalomnikdev/paalomnikdev.github.io
+repository: ichornyi/ichornyi.github.io
 favicon: images/favicon.ico
 url: https://ivan.chornyi.rocks
 # Content configuration version
@@ -20,7 +20,7 @@ darkmode: false
 # Social links
 # Social links
 #twitter_username: jekyllrb
-github_username:  paalomnikdev
+github_username:  ichornyi
 #stackoverflow_username: "00000001"
 #dribbble_username: jekyll
 #facebook_username: jekyll
