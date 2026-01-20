@@ -25,7 +25,7 @@ github_username:  ichornyi
 #dribbble_username: jekyll
 #facebook_username: jekyll
 #flickr_username: jekyll
-instagram_username: chornyi_fpv
+instagram_username: its.chornyi
 linkedin_username: ichornyi
 #xing_username: jekyll
 #pinterest_username: jekyll
@@ -117,10 +117,12 @@ content:
           - Git
           - Docker
           - Kubernetes
+          - OpenShift
           - Helm
           - Vagrant
           - Ansible
           - Terraform
+          - Cloudformation
           - Vault
           - Spinnaker
           - CircleCI
@@ -175,6 +177,26 @@ content:
   - title: Experience
     layout: list
     content:
+      - layout: left
+        title: USUA
+        sub_title: Senior DevOps Engineer
+        caption: April 2024 - Nowadays
+        link: usua.io
+        quote: >
+          USUA is a cybersecurity services company focused on Identity & Access Management (IAM), helping organizations ensure the right people and systems have the right access to cloud resources at the right time. They also offer cloud security operations and DevOps/SRE services across major clouds (AWS, GCP, Azure).
+        description: |
+          Senior DevOps / CloudOps engineer responsible for designing, automating, and operating secure cloud platforms and delivery pipelines across AWS and GCP. Owns infrastructure-as-code (Terraform/CloudFormation), OpenShift (including ROSA) platform operations, CI/CD (CircleCI), and production-grade integrations (IAM, networking, observability, secrets, artifact registries). Leads migrations and modernization initiatives, with strong focus on reliability, compliance, and cost optimization.
+          Tech stack:
+          - AWS
+          - GCP
+          - Go
+          - Python
+          - Terraform
+          - GKE(k8s)
+          - CircleCI
+          - Openshift
+          - Ansible
+          - Splunk
       - layout: left
         title: Techstack
         sub_title: Senior DevOps Engineer
